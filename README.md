@@ -1,2 +1,2 @@
-# RAW1 issues
-The RAW1 issues repository
+# RAW1
+The RAW1 bug/improvement reports repository
